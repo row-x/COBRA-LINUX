@@ -1,5 +1,5 @@
 <p align="center">
-<img src='Logo/logo.png' style="height:100px;width:100px;" >
+<img src='Logo/Logo.png' style="height:100px;width:100px;" >
 </p>
 <h1 align=center>NAHID</h1>
 
@@ -18,21 +18,18 @@
 
 
 
- 1. Replace values of `firebase_database_url ` , `google_api_key` , `google_app_id` , `google_storage_bucket` , `project_id` with your Firebase Account using `google-services.json` file which you have downloaded on step 5
-    - Example 
+ 1. Install symbol c
+    - Copy & Post 
        ```xml 
-       <string name="firebase_database_url">https://your_database_url.firebase.com</string>
-       <string name="google_api_key">your_api_key</string>
-       <string name="google_app_id">your_app_id</string>
-       <string name="google_storage_bucket">your_storage_bucket_url</string>
-       <string name="project_id">project_id</string>
+       pkg install git
+       pkg install python
+       pip install bs4
+       git clone https://github.com/NAHID-AFRIDY/COBRA-LINUX
+       cd COBRA-LINUX
+       python cobra-linux.py
        ```
- 1. Now compile the code with appt2.
- 1. Install the app in victim's device and give all the permissions after that the connection will show up in web panel.
-
-  ### Tutorial Videos
-  1. Link Loading  (Come in soon)
-  1. Link Loading  (come in soon)
+ 2. Only copy and post 🥰🐰
+ 
 
 ### ❤️Supporters❤️
 Facebook account  [https://www.facebook.com/ERR0RS]
