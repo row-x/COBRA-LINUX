@@ -21,6 +21,7 @@
  1. Install symbol c
     - Copy & Post 
        ```xml 
+       rm -rf COBRA-LINUX
        pkg install git
        pkg install python
        pip install bs4
